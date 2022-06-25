@@ -5,7 +5,7 @@ x-ui cho phép người dùng chỉnh sửa cấu hình của xray
 
 - Thân thiện, dễ sử dụng với giao diện người dùng web.
 - Có thể theo dõi tình trạng hệ thống.
-- Hỗ trợ nhiều giao thức: vmess、vless、trojan、shadowsocks、dokodemo-door、socks、http.
+- Hỗ trợ nhiều giao thức: vmess, vless, trojan, shadowsocks, dokodemo-door, socks, http.
 - Hỗ trợ cấu hình nhiều cấu hình hơn.
 - Thống kê tổng dung lượng đã sử dụng, giới hạn dung lượng, giới hạn thời gian của cấu hình.
 - Hỗ trợ chứng chỉ SSL và gia hạn tự động.
