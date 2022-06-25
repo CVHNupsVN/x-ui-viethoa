@@ -1,5 +1,5 @@
 # x-ui-viethoa
-x-ui cho phép người dùng chỉnh sửa cấu hình của xray
+x-ui cho phép người dùng chỉnh sửa cấu hình của xray.
 
 # Ưu điểm:
 
